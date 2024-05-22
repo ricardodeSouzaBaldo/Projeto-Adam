@@ -1,0 +1,19 @@
+body{
+    background-color:aqua;
+    color:black;
+    text-align: center;
+    font-size: xx-large;
+}
+.imagem-principal{
+    width: 50%;
+}
+.cabeçalho{
+    background-color:blue;
+    color:antiquewhite;
+    font-family:'Courier New', Courier, monospace;
+    display:flex;
+    justify-content:space-around;
+}
+.itens{
+    list-style-type: none;
+}
